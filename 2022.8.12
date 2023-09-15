@@ -1,0 +1,7 @@
+Collecting tifffile
+  Obtaining dependency information for tifffile from https://files.pythonhosted.org/packages/12/3e/89513f44a10c625121b7d5bc54390d7ac7f2c92a19755c052888febf9730/tifffile-2023.8.30-py3-none-any.whl.metadata
+  Downloading tifffile-2023.8.30-py3-none-any.whl.metadata (30 kB)
+Requirement already satisfied: numpy in c:\users\user\.conda\envs\lecture\lib\site-packages (from tifffile) (1.25.2)
+Using cached tifffile-2023.8.30-py3-none-any.whl (221 kB)
+Installing collected packages: tifffile
+Successfully installed tifffile-2023.8.30

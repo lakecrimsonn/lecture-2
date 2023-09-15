@@ -1,0 +1,12 @@
+names:
+  - Dogs
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: models-onsb5
+  url: https://universe.roboflow.com/school-igyn6/models-onsb5/dataset/1
+  version: 1
+  workspace: school-igyn6
+test: C:\Users\user\PycharmProjects\lecture\roboflow\Models-1\test\images
+train: C:\Users\user\PycharmProjects\lecture\roboflow\Models-1\train\images
+val: C:\Users\user\PycharmProjects\lecture\roboflow\Models-1\valid\images
